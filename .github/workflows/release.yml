@@ -11,7 +11,7 @@ permissions:
 env:
   PROJECT_NAME: OutSystems.Extension.CsvToolkit
   PRODUCT_NAME: CsvToolkit
-  DOTNET_VERSION: '8.0.x'
+  DOTNET_VERSION: '10.0.x'
 
 jobs:
   release:
